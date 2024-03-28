@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div className="hero bg-base-200 rounded-xl">
             <div className="hero-content flex-col lg:flex-row-reverse p-14">
-                <img src="images/bannar.png" className="max-w-lg rounded-lg" />
+                <img src="src/assets/components/Banner/user.png" className="max-w-lg rounded-lg" />
                 <div>
                     <h1 className="text-5xl font-bold">Books to freshen up <br/> your bookshelf</h1>
                     {/* Wrap the button in the Link component */}
