@@ -1,0 +1,89 @@
+{
+    "books": [
+      {
+        "bookId": 1,
+        "bookName": "The dating playboy",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.postimg.cc/HsQcJQb5/pngwing-1.png",
+        "review": "A timeless classic that explores the decadence and disillusionment of the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic Literature",
+        "tags": ["Drama", "Romance"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925,
+        "button": "Read"
+      },
+      {
+        "bookId": 2,
+        "bookName": "Annotated Texas Family Code",
+        "author": "George Orwell",
+        "image": "https://i.postimg.cc/fT13DfJm/kindpng-81724-1.png",
+        "review": "A dystopian masterpiece that serves as a chilling warning about the dangers of totalitarianism.",
+        "totalPages": 328,
+        "rating": 4.8,
+        "category": "Science Fiction",
+        "tags": ["Dystopian", "Political"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949,
+        "button": "Wishlist"
+      },
+      {
+        "bookId": 3,
+        "bookName": "Why Do You Hate Money",
+        "author": "Harper Lee",
+        "image": "https://i.postimg.cc/9MfXGDDc/kindpng-7318921.png",
+        "review": "A poignant portrayal of racial injustice and moral growth in the American South.",
+        "totalPages": 581,
+        "rating": 4.7,
+        "category": "Fiction",
+        "tags": ["Coming of Age", "Legal Drama"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960,
+        "button": "Read"
+      },
+      {
+        "bookId": 4,
+        "bookName": "loving Jesus More",
+        "author": "Jane Austen",
+        "image": "https://i.postimg.cc/Vk1JJLWk/kindpng-2193744-1.png",
+        "review": "A timeless romance filled with wit, social commentary, and memorable characters.",
+        "totalPages": 779,
+        "rating": 4.6,
+        "category": "Romantic Fiction",
+        "tags": ["Regency", "Comedy of Manners"],
+        "publisher": "T. Egerton, Whitehall",
+        "yearOfPublishing": 1813,
+        "button": "Wishlist"
+      },
+      {
+        "bookId": 5,
+        "bookName": "Art of Good Conversation",
+        "author": "J.D. Salinger",
+        "image": "https://i.postimg.cc/zDKDTYBb/kindpng-5624060-1.png",
+        "review": "An iconic coming-of-age novel that captures the disillusionment of youth in post-war America.",
+        "totalPages": 977,
+        "rating": 4.4,
+        "category": "Modern Literature",
+        "tags": ["Cultural", "Bildungsroman"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951,
+        "button": "Wishlist"
+      },
+      {
+        "bookId": 6,
+        "bookName": "Spine Of The Dragon",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.postimg.cc/bv4SLXtG/kindpng-4945926-1.png",
+        "review": "An epic fantasy saga that transports readers to a richly imagined world of adventure and heroism.",
+        "totalPages": 1178,
+        "rating": 4.9,
+        "category": "Fantasy",
+        "tags": ["Epic", "High Fantasy"],
+        "publisher": "Allen & unWin",
+        "yearOfPublishing": 1954,
+        "button": "Read"
+      }
+    ]
+  }
+  
